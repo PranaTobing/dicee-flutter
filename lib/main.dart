@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 void main() {
   return runApp(
     MaterialApp(
+      title: 'dicee app',
       home: Scaffold(
         backgroundColor: Colors.red,
         appBar: AppBar(
